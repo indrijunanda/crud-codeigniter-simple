@@ -1,4 +1,4 @@
-# CRUD Simpel Menggunakan Codeigniter Framework
+# CRUD Simpel Menggunakan Codeigniter Framework (Bahasa Indonesia)
 
 ## Tutorial 
 
