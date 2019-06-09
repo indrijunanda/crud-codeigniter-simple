@@ -1,3 +1,5 @@
+[![LinkedIn][linkedin-shield]][facebook.com]
+
 # CRUD Simpel Menggunakan Codeigniter Framework (Bahasa Indonesia)
 
 ## Tutorial 
