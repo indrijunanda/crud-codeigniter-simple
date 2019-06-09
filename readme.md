@@ -16,6 +16,10 @@ buatlah database dengan nama
 simplecrud
 ```
 
-Happy Developing and learning 
 
-developed by **indrijunanda**
+
+*Happy Developing and learning*
+
+
+
+`developed by **indrijunanda**`
