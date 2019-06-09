@@ -1,13 +1,11 @@
-[![LinkedIn][linkedin-shield]][facebook.com]
-
 # CRUD Simpel Menggunakan Codeigniter Framework (Bahasa Indonesia)
 
 ## Tutorial 
 
 Clone dengan menggunakan :
 
-```
-https://github.com/indrijunanda/crud-codeigniter-simple.git
+```sh
+git clone https://github.com/indrijunanda/crud-codeigniter-simple.git
 ```
 
 ### Database 
