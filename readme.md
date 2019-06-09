@@ -17,9 +17,10 @@ simplecrud
 ```
 
 
+### Cheers Up!
 
-*Happy Developing and learning*
+*Happy Developing and learning* 💪
 
 
 
-`developed by **indrijunanda**`
+developed by `indrijunanda`
