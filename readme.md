@@ -1,4 +1,4 @@
-### CRUD Simpel Menggunakan Codeigniter Framework
+# CRUD Simpel Menggunakan Codeigniter Framework
 
 ## Tutorial 
 
@@ -8,7 +8,7 @@ Clone dengan menggunakan :
 https://github.com/indrijunanda/crud-codeigniter-simple.git
 ```
 
-# Database 
+### Database 
 
 buatlah database dengan nama
 
