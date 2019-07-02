@@ -8,6 +8,8 @@ Clone dengan menggunakan :
 git clone https://github.com/indrijunanda/crud-codeigniter-simple.git
 ```
 
+atau kamu bisa langsung download dalam bentuk **.zip**
+
 ### Database 
 
 buatlah database dengan nama
@@ -24,4 +26,4 @@ simplecrud
 
 
 
-developed by `indrijunanda`
+developed by **[`indrijunanda`](https://indrijunanda.gitlab.io/)**
