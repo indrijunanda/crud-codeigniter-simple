@@ -15,8 +15,10 @@ atau kamu bisa langsung download dalam bentuk **.zip**
 buatlah database dengan nama
 
 ```
-simplecrud
+ci_crud
 ```
+
+dan import file sql yang ada pada folder *mysql file*
 
 -------------------
 
