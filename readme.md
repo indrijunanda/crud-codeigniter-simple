@@ -20,12 +20,12 @@ ci_crud
 
 dan import file sql yang ada pada folder *mysql file*
 
--------------------
 
+-------------------
 ### Cheers Up!
 
 *Happy Developing and Learning* 💪
 
 
 
-developed by **[`indrijunanda`](https://indrijunanda.gitlab.io/)**
+Regards 😁😁
